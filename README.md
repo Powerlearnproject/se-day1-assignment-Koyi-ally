@@ -331,3 +331,20 @@ Prompt engineering is the practice of crafting input prompts or queries in a way
 Prompt engineering involves understanding how the model interprets various types of input and strategically using this knowledge to refine and optimize prompts for better performance.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a Vague Prompt:
+"Tell me about climate change."
+
+Improved Prompt:
+"Explain the main causes of climate change and discuss its impact on global weather patterns, with examples from the last decade."
+
+Why the Improved Prompt is More Effective:
+Clarity:
+
+The original prompt ("Tell me about climate change") is vague and open-ended. It could result in a broad, general response that may not focus on what the user truly wants to know.
+The improved prompt is specific in asking for an explanation of "the main causes of climate change" and the "impact on global weather patterns," which focuses the AI on particular aspects of the topic.
+Specificity:
+
+The improved prompt explicitly mentions the need for examples from the "last decade," which narrows down the timeframe and ensures the AI provides up-to-date information, adding more relevance to the answer.
+Conciseness:
+
+By being more specific about what is being asked, the improved prompt reduces the likelihood of irrelevant or unnecessary information being included in the response, ensuring a more targeted and efficient answer.
