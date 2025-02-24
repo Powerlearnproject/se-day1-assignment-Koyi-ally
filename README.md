@@ -120,6 +120,55 @@ Both methodologies have their advantages and are suited for different types of p
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+1. Software Developer
+Primary Role: The Software Developer is responsible for designing, coding, and maintaining software applications. They translate business requirements into functional software solutions.
+
+Key Responsibilities:
+
+Writing Code: Developing the software application based on the design specifications, using appropriate programming languages and frameworks.
+Designing Systems: Collaborating with other team members to create efficient system architecture and design the underlying software components.
+Debugging and Troubleshooting: Identifying and resolving issues in the software during development, testing, and after deployment.
+Unit Testing: Writing and performing unit tests to ensure individual components of the software work as expected.
+Collaboration: Working with other developers, designers, and business analysts to ensure the software aligns with customer needs and technical requirements.
+Code Reviews: Participating in code reviews to ensure that the code is of high quality, maintainable, and adheres to standards.
+Skills Needed:
+
+Proficiency in programming languages (e.g., Java, Python, C++).
+Understanding of software architecture, databases, and APIs.
+Problem-solving and debugging skills.
+2. Quality Assurance (QA) Engineer
+Primary Role: The QA Engineer is responsible for ensuring that the software meets the required quality standards and functions properly before it is released to users. They focus on identifying defects and ensuring the software behaves as expected.
+
+Key Responsibilities:
+
+Creating Test Plans: Developing detailed test plans and test cases based on the software requirements and user stories.
+Manual and Automated Testing: Performing manual tests and creating automated tests to evaluate the functionality, performance, security, and usability of the software.
+Bug Tracking and Reporting: Identifying defects, documenting issues, and collaborating with developers to ensure bugs are fixed.
+Regression Testing: Ensuring that new code changes do not negatively affect existing functionality.
+Performance and Load Testing: Testing the software for scalability and performance, ensuring it can handle the expected load.
+Continuous Improvement: Working closely with developers to improve software quality and implement better testing practices over time.
+Skills Needed:
+
+Strong attention to detail and analytical skills.
+Knowledge of testing tools (e.g., Selenium, JUnit, TestNG) and methodologies (e.g., manual, automated, performance testing).
+Ability to work with developers to troubleshoot issues and ensure high software quality.
+3. Project Manager
+Primary Role: The Project Manager (PM) is responsible for overseeing the software development process, ensuring that the project is completed on time, within scope, and within budget. They manage resources, risks, and stakeholder communication throughout the project lifecycle.
+
+Key Responsibilities:
+
+Project Planning: Defining project goals, scope, timeline, and deliverables. Creating detailed project plans with milestones and deadlines.
+Resource Management: Allocating resources (team members, tools, etc.) and ensuring the team has what it needs to succeed.
+Risk Management: Identifying potential risks to the project (e.g., scope creep, technical challenges) and developing mitigation strategies.
+Stakeholder Communication: Keeping stakeholders informed of project progress, issues, and changes. This includes regular updates, meetings, and reports.
+Team Coordination: Facilitating communication among team members, resolving conflicts, and ensuring that everyone is working toward common goals.
+Quality Assurance and Timeliness: Ensuring that the project stays on track in terms of scope, time, and budget while maintaining quality standards.
+Skills Needed:
+
+Strong leadership and communication skills.
+Ability to manage resources and schedules effectively.
+Knowledge of project management methodologies (e.g., Agile, Scrum, Waterfall).
+Problem-solving and decision-making skills.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
