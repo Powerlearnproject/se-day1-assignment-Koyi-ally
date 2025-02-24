@@ -17,7 +17,12 @@ Scalability and Maintenance: In the fast-paced tech world, software needs to evo
 
 Security: With cyber threats becoming more sophisticated, software engineering practices emphasize building secure applications that protect user data and prevent breaches, which is crucial in an era of digital transformation.
 Identify and describe at least three key milestones in the evolution of software engineering.
-
+1. The Birth of Software Engineering (1960s)
+Description: In response to the growing complexity of software systems and the "Software Crisis," the term "software engineering" was coined. This marked the formalization of software development as a discipline, emphasizing structured, systematic approaches to software design, development, and maintenance.
+2. Structured Programming (1970s)
+Description: The introduction of structured programming, led by figures like Edsger Dijkstra, revolutionized the way software was written. It promoted breaking programs into smaller, manageable modules and using control structures to improve code clarity, reliability, and maintainability.
+3. Agile Methodologies (2000s)
+Description: In 2001, the Agile Manifesto was published, advocating for iterative development, customer collaboration, and adaptability over rigid, linear processes. Agile methodologies, like Scrum and Kanban, transformed how software projects were managed, promoting faster, more flexible development cycles.
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
